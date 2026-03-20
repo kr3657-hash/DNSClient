@@ -71,4 +71,4 @@ if __name__ == '__main__':
     result = query_local_dns_server('nyu.edu.',question_type)
     print(result)
     
-    print(exfiltrate_info('google.com', question_type))
+    #print(exfiltrate_info('google.com', question_type))
